@@ -88,9 +88,11 @@ target/
 # Mypy cache
 .mypy_cache/
 
-# Useless files:
+# Useless files & folders:
 requirements_123.txt
 tox.ini
 test_environment.py
 setup.py
-Makefile
+Makefile/
+references/
+*.zip
