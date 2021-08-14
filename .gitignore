@@ -95,4 +95,5 @@ test_environment.py
 setup.py
 Makefile/
 references/
+models/
 *.zip
